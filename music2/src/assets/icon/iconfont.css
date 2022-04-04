@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2709729 */
+  src: url('iconfont.woff2?t=1627554794985') format('woff2'),
+       url('iconfont.woff?t=1627554794985') format('woff'),
+       url('iconfont.ttf?t=1627554794985') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yinle_2 { 
+  padding-right: 10px;
+  padding-top: 8px;
+  font-size: 30px;
+}
+
+.icon-yinle_2:before {
+  content: "\e705";
+  
+}
+
+.icon-yinlegedanyinfu:before {
+  content: "\e72f";
+}
+
+.icon-music:before {
+  content: "\e65e";
+}
+
+.icon-yinle:before {
+  content: "\e799";
+}
+
+.icon-MV:before {
+  content: "\e605";
+}
+
