@@ -7,4 +7,4 @@ cd  NeteaseCloudMusicApi里  node app.js
 
 cd login_register里 node app.js
 
-然后再 npm run serve
+然后再去music里 npm run serve
