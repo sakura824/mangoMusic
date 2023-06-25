@@ -34,7 +34,7 @@ CREATE TABLE `comments`  (
 -- ----------------------------
 -- Records of comments
 -- ----------------------------
-INSERT INTO `comments` VALUES (120, '好听哎！', '2022-01-15 11:55:48', '2022-01-15 11:55:48', '李渝星');
+INSERT INTO `comments` VALUES (120, '好听哎！', '2022-01-15 11:55:48', '2022-01-15 11:55:48', 'xxx');
 INSERT INTO `comments` VALUES (122, '你好', '2022-01-16 05:41:56', '2022-01-16 05:41:56', 'admin');
 INSERT INTO `comments` VALUES (123, '我的', '2022-01-16 05:45:04', '2022-01-16 05:45:04', 'admin');
 
