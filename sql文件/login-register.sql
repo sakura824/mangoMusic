@@ -36,7 +36,7 @@ CREATE TABLE `users`  (
 -- Records of users
 -- ----------------------------
 INSERT INTO `users` VALUES (1, 'admin', '123456', '2021-12-25 08:00:03', '2021-12-25 08:00:03');
-INSERT INTO `users` VALUES (16, '李渝星', '990824', '2021-12-26 07:47:02', '2021-12-26 07:47:02');
+INSERT INTO `users` VALUES (16, 'xxx', '990824', '2021-12-26 07:47:02', '2021-12-26 07:47:02');
 INSERT INTO `users` VALUES (76, 'sad', '8465', '2022-01-15 12:51:35', '2022-01-15 12:51:35');
 INSERT INTO `users` VALUES (78, '啊沙发上', 'safsaasfsfsa', '2022-01-15 13:01:32', '2022-01-15 13:01:32');
 INSERT INTO `users` VALUES (79, '啊', '976541', '2022-01-15 13:01:55', '2022-01-15 13:01:55');
